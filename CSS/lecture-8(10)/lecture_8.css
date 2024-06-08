@@ -1,0 +1,165 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+.animation{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    animation-name: move;
+    animation-duration: 10s;
+    animation-iteration-count: 2;
+}
+@keyframes move{
+    from{
+        transform: translate(0px);
+        background-color: green;
+    }
+
+    to{
+        transform: translate(1000px);
+        background-color: blue;
+    }
+}
+/* new lecture prec*/
+/*
+.h-screen{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.overlaydiv{
+    height: 600px;
+    width: 600px;
+    position: relative;
+    overflow: hidden;
+}
+img{
+    object-fit: cover;
+}
+.layer{
+    height: inherit;
+    width: inherit;
+    position: absolute;
+    top:0;
+    z-index: 2;
+  }
+.layer:hover{
+    background-color: black;
+    opacity: 0.7;
+    transition: 2s;
+  }
+  
+  .layer-text{
+    height: inherit;
+    width: inherit;
+    position: absolute;
+    top:0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  img{
+    margin-left: 100px;
+  }
+  
+  .overlaydiv:hover .layer-text h1{
+    display: block;
+    opacity: 1;
+  }
+  
+  .layer-text h1{
+    color:white ;
+    text-align: center;
+    display: none;
+    opacity: 0.1;
+    transition: 2s; 
+  }
+  */
+
+
+  /*css-1*/
+ /*.h-screen{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.overlaydiv{
+    height: 600px;
+    width: 600px;
+    position: relative;
+    overflow: hidden;
+}
+img{
+    object-fit: cover;
+}
+.layer{
+    height: inherit;
+    width: inherit;
+    position: absolute;
+    top:0;
+    z-index: 2;
+  }
+.layer:hover{
+    opacity: 0.7;
+    transition: 2s;
+  }
+  img{
+    margin-left: 100px;
+  }*/
+/* css-2*/
+ /* img{
+    height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 80px;
+  }*/
+
+/* css 3*/
+ /*img{
+    display: block;
+    margin: auto;
+ }
+ div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+ }*/
+
+ /* css-4*/
+ 
+ /*.box{
+  width:200px;
+  height: 200px;
+  position:absolute;
+  top:50%;
+  left: 50%; 
+  margin-right: 20px;
+  transform: translate(-50% -50%);
+  display:flex;
+
+  
+ }
+ .box img{
+  width: 200px;
+  height:200px;
+ }*/
+
+ /* css-5*/
+ /*div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20%;
+ }
+*/
+ 
+  
+  

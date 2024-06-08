@@ -1,0 +1,27 @@
+.one{
+    height: 500px;
+    width: 800px;
+    background-color: rgb(175, 206, 219);
+    padding-top: 20px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.two{
+    height: 450px;
+    width: 750px;
+    background-color: white;
+    margin: auto;
+}
+
+.three{
+    width: 340px;
+}
+
+.four{
+    width: 700px;
+}
+
+.five{
+    width: 210px;
+}

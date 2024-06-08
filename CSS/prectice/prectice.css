@@ -1,0 +1,97 @@
+a:nth-child(3n+1)
+{
+    color:green;
+    background-color: yellow;
+} /*1/2*/
+
+h1:nth-last-child(22)
+{
+    background-color: yellow;
+    color: green;
+}/*3*/
+
+ h1:nth-child(6){
+    background-color: yellow;
+    color:green;
+} /*4*/
+
+input:first-of-type
+{
+    background-color: yellow;
+    color:green;
+}/*5*/
+
+h1:only-of-type{
+    background-color: yellow;
+    color:green;
+} /*6/7/8/9*/
+
+.heading,h1:nth-child(12)
+{
+    background-color: yellow;
+    color:green; 
+} /*10*/
+
+div:nth-child(12) h1:nth-child(2)
+{
+    background-color: yellow;
+    color: green;
+}/*11*/
+
+.head,h1:nth-child(13)
+{
+    background-color: yellow;
+    color:green; 
+} /*12*/
+
+ h1:nth-child(14)
+{
+    background-color: yellow;
+    color:green;
+} /*13*/
+
+div span p:last-child{
+    background-color: yellow;
+    color:green;
+}/* 14/15*/
+
+div div div h1:nth-child(1)
+{
+    background-color: yellow;
+    color: green; 
+}/*16*/
+
+div div div h1:nth-child(4)
+{
+    background-color: yellow;
+    color: green;
+}/*17*/
+
+section h1:last-child{
+    background-color: yellow;
+    color:green;
+}/*18*/
+
+div:nth-child(18) div h1:first-child
+{
+    background-color: yellow;
+    color:green;
+ }  /*19*/
+
+h1:nth-child(19)
+{
+    background-color: yellow;
+    color:green;
+}/* 20*/
+ 
+h1:nth-child(22)
+{
+    background-color: yellow;
+    color:green;
+} /*21*/
+
+
+
+
+
+

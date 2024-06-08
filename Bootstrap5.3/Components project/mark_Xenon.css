@@ -1,0 +1,39 @@
+.one{
+    height: 500px;
+    width: 800px;
+    background-color: rgb(127, 127, 203);
+    padding-top: 50px;
+    margin: auto;
+    margin-top: 90px;
+}
+
+
+.two{
+    height: 400px;
+    width: 700px;
+    background-color: rgb(2, 2, 50);
+    margin: auto;
+    border-radius: 20px;
+}
+
+img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    margin-left: 320px;
+    margin-top: 100px;
+}
+
+h2{
+    margin-left: 270px;
+    color: white;
+}
+
+pre{
+    color: white;
+}
+
+.three{
+    margin-left: 290px;
+    width: 150px;
+}

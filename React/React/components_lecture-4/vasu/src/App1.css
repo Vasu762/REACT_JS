@@ -1,0 +1,125 @@
+.navbar {
+  background-color: #333;
+  overflow: hidden;
+  /* display: flex; */
+
+}
+
+.navbars {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.nav-item {
+  margin: 0 10px;
+
+
+}
+
+.nav-link {
+  display: block;
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  display: flex;
+
+
+
+}
+
+.nav-link:hover {
+  background-color: #555;
+}
+
+
+/* ----------ARTICAL----------- */
+
+
+.RohitSharma {
+  display: flex;
+  margin: 10px;
+
+}
+
+.one {
+  height: 180px;
+  width: 200px;
+}
+
+.p1 {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: medium;
+  font-weight: bold;
+  color: red;
+}
+
+.Virat {
+  display: flex;
+  margin: 10px;
+}
+
+.two {
+  height: 210px;
+  width: 230px;
+}
+
+.p2 {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: medium;
+  font-weight: bold;
+  color: black;
+}
+
+.p3 {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: medium;
+  font-weight: bold;
+  color: blueviolet;
+}
+
+.jasprit {
+  display: flex;
+  margin: 10px;
+}
+
+.H3:hover {
+  background-color: rgb(2, 2, 71);
+  color: white;
+}
+
+
+/* card */
+
+.gill {
+  height: 350px;
+  width: auto;
+}
+
+
+
+
+/* table */
+
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.ppp{
+  display: flex;
+}

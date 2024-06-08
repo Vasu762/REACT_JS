@@ -1,0 +1,71 @@
+    .one{
+        height: 450px;
+        width: 400px;
+        background-color: rgb(3, 3, 44);
+        border: 20px solid rgb(74, 57, 57);
+        margin: auto;
+        margin-top: 150px;
+        padding-top: 40px;
+    }
+
+    .three{
+        height: 30px;
+        width: 30px;
+    }
+
+    .two{
+        color: white;
+        margin-left: 300px;
+        /* padding-top: 200px; */
+    }
+    img{
+        height: 100px;
+        width: 100px;
+        margin-left: 50px;
+        margin-top: 30px; 
+    }
+
+    b{
+        color: white;
+    }
+    h6{
+        color: white;
+    }
+    .four{
+        margin-left: 170px;
+        /* margin-bottom: 80px; */
+    }
+
+    h2{
+        color:white;
+    }
+
+    .five{
+        margin-top: 60px;
+        margin-left: 40px;
+    }
+
+
+    .one-1{
+        color: blue;
+    }
+    .one-2{
+        color: yellow;
+    }
+    .one-3{
+        color: rgb(185, 25, 78);
+    }
+    .one-4{
+        color: green;
+    }
+    .one-5{
+        color: blue;
+    }
+
+    blockquote{
+        color: antiquewhite;
+    }
+
+    .two-1{
+        color: blue;
+    }

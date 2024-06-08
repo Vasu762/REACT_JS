@@ -1,0 +1,99 @@
+Javascript Operator
+
+
+
+
+
+1.What is the result?
+	1 + 2 * 3		==>7
+	1 + "2" * 3		==>7
+	"1" + "2" * 3		==>16
+
+2.What is the result?
+	1 + 2 ** 3 / 2 - 1	==>4
+	9 / 2 * 3		==>13.5
+	9 / (2 * 3)    		==>1.5
+
+
+3.What is the result?
+	x = 1; x++; alert(x);	==>
+	x = 1; alert(++x);	==>
+	x = 1; alert(x++);	==>
+
+
+4.What is the result?
+	1 == 01		==> true
+	1 === 01	==> true
+	"1" == 01	==> true
+	"1" == "01"	==> false
+	"1" == 0 + 1	==> true
+	"1" == 0 + "1"	==> false
+ 	"1" == 0 * 1	==> false 
+	"1" == 0 * "1"	==> false
+
+5.What is the result?
+	true && false			==>false	
+	true && false || true		==>true
+	true && false || !true		==>false
+	!(true && false)		==>true
+
+
+6. What will be the output of the following JavaScript code?
+	var string1 = ”123”;
+	var intvalue = 123;
+	alert( string1 + intvalue );
+	
+	output ==>123123
+
+
+7. Guess the ternary operator used in the following example ?
+	marks = (mark<35)?"Fail":"Pass";
+
+
+	==> var mark = 45;
+
+   		 marks = (mark<35)?"Fail":"Pass";
+
+		 console.log(marks)
+
+
+   		 // --------------------
+    	==>	var mark = 25;
+
+	       marks = (mark<35)?"Fail":"Pass";
+
+	    console.log(marks)
+
+
+
+
+8. What will be the output of the following script ?
+	<script>
+	var x = 5;
+	document.write(x === "5");
+	</script>
+
+
+	==>false
+
+
+
+9. What will be the output of the following JavaScript code?
+	function height()
+	{
+	var height = 123.56;
+	var type = (height>=190) ? "tall" : "short";
+	return type;
+	}
+
+	==>short
+
+
+
+10. What type of value gets printed if we add following two variables .
+	var a = "1";
+	var b = 5
+
+
+	==>string
+	==>int

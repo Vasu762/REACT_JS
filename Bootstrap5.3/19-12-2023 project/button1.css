@@ -1,0 +1,50 @@
+.one{
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    margin-top: 250px;
+}
+
+.btn{
+    height: 150px;
+    width: 150px;
+    border-radius: 30px;
+}
+
+/* .h-w{
+    height: 70px;
+    width: 70px;
+} */
+
+.mv{
+    height: 50px;
+    width: 50px;
+}
+
+
+/* element.style {
+}
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+    cursor: pointer;
+}
+.btn {
+    height: 150px;
+    width: 150px;
+    border-radius: 30px;
+}
+.btn-primary {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #01122be6;
+    --bs-btn-border-color: #0d6efd;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #0b5ed7;
+    --bs-btn-hover-border-color: #0a58ca;
+    --bs-btn-focus-shadow-rgb: 49,132,253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #0a58ca;
+    --bs-btn-active-border-color: #0a53be;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #0d6efd;
+    --bs-btn-disabled-border-color: #0d6efd;
+} */

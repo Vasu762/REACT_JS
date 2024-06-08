@@ -1,0 +1,9 @@
+What are the Important Array Methods of JavaScript ?
+In this article, we will try to understand various important Array methods (like push(), pop(), and so on) with the help of certain examples.
+
+Let us first understand how we can create an array in JavaScript by using certain syntax provided.
+
+Syntax:
+
+let array = [element1, element2, .....]
+Alternatively, we may also use the Array class (using a new keyword along with the Array class default constructor) for creating new Array elements, but it is always recommended that we must prefer using the above literal syntax.

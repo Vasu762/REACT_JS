@@ -1,0 +1,44 @@
+body{
+    background-color: orange;
+}
+
+.box-1{
+    height: 100px;
+    width: 100px;
+    background-color:
+    black;
+    border: 15px solid blue;
+}   
+
+body{
+    background-color: pink;
+    color: brown;
+}
+
+
+*{
+    background-color: orange;
+    color: aqua;
+}
+p{
+    background-color: palevioletred;
+}
+
+
+
+h1{
+    color: gold;
+}
+
+
+
+.classroom
+{
+    color: white;
+}
+
+
+
+#div1{
+color:aqua;
+}

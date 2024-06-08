@@ -1,0 +1,101 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+/* page-1 */
+
+
+/* Shop by categories */
+
+.ovelay {
+  height: 70px;
+  background-color: whitesmoke;
+  opacity: 0;
+  transition-duration: 0.3s;
+}
+
+.image:hover .ovelay {
+  opacity: 1;
+}
+
+
+
+
+
+
+
+.primary-img:hover img {
+  transform: scale(1.1);
+}
+
+.primary-img img {
+  transition: transform 1.5s ease-in-out;
+}
+
+.primary-img:hover .shop-icon {
+  opacity: 1;
+}
+
+.shop-icon {
+  opacity: 0;
+  transition-duration: 1s;
+}
+
+.icon:hover {
+  background-color: #000A12 !important;
+}
+
+.icon-1:hover {
+  filter: invert(100%) sepia(1) saturate(0) hue-rotate(174deg);
+}
+
+.vasu {
+  animation: big-image 2s ease-in-out;
+}
+
+
+@keyframes big-image {
+  0% {
+    opacity: 0;
+    transform: translateY(300px);
+
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+
+
+.vasu1 {
+  animation: big-image 2s ease-in-out;
+}
+
+
+@keyframes big-image {
+  0% {
+    opacity: 0;
+    transform: translateY(100px);
+
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+
+/* Navbar */
+
+a#offcanvasNavbarDropdown-expand-xl.dropdown-toggle.nav-link::after {
+  opacity: 0;
+}
+

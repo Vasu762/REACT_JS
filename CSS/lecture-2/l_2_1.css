@@ -1,0 +1,31 @@
+*
+{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+
+.font-family{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+    font-variant: unset;
+    font-weight: lighter;
+    line-height: 30px;
+}
+    .white-space{
+        white-space:pre;
+    }
+
+.box{
+
+    
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    visibility: visible;
+} 
+ 

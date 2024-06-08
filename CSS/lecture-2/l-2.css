@@ -1,0 +1,120 @@
+body
+{
+ margin: 0; 
+}
+
+.rgb{
+    height: 100px;
+    width: 100px;
+    background-color:rgb(88, 154, 220)
+}
+
+.rgba{
+    height: 200px;
+    width: 200px;
+    background-color: rgba(120 40 50);
+}
+
+.hex{
+    height: 300px;
+    width: 300px;
+    background-color:#ffff00
+}
+
+
+.hsl{
+    height: 400px;
+    width: 400px;
+    background-color:hsl(320 12% 32%) ;
+}
+
+.linear-gradient-1
+{
+    height: 100px;
+    width: 100px;
+    background:linear-gradient(to right, red ,orange,black);
+}
+
+
+.diagonal-linear-gradient
+{
+    height: 200px;
+    width: 200px;
+    background:-moz-linear-gradient(to top,black 50% ,pink 50%);
+     
+}
+
+.linear-gradient-raindow
+{
+    height: 300px;
+    width: 300px;
+    background: linear-gradient(to bottom ,red ,orange ,yellow,black ,blue,navy);
+}
+
+.radial-gradient-simple{
+    height: 400px;
+    width: 400px;
+    background: -moz-linear-gradient(navy, blue,black,red,orange,yellow,green);
+}
+
+.radial-gradient{
+    height: 500px;
+    width: 500px;
+    background:radial-gradient(circle farthest-corner at top,red,pink);
+}
+
+
+.busllseye
+{
+   height: 400px;
+   width: 400px;
+   background: -moz-repeating-radial-gradient(red,orange);
+}
+
+.warning{
+    height: 300px;
+    width: 300px;
+    background: repeating-linear-gradient(30deg,red,yellow 10%,pink 10%,black 20%);
+}
+
+.conic{
+    height: 200px;
+    width: 200px;
+    background-color: cadetblue;
+    background: -moz-radial-gradient(circle, orange 0%,
+    yellow 47%,red 100%);
+}
+
+.border{
+  height: 200px;
+  width: 200px;
+  border: 20px groove black;
+  margin: 50px;
+  border-radius: 50px;  
+}
+
+.outline{
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    outline: 10px double gold;
+    margin: 100px;
+    outline-offset: 50px;
+}
+
+.opacity{
+    opacity: 90%;
+    background-color: crimson;
+    height: 200px;
+    width: 200px;
+}
+
+
+
+
+
+
+
+
+
+

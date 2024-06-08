@@ -1,0 +1,106 @@
+.one{
+    height: 650px;
+    width: 1350px;
+    background-color: rgb(169, 211, 228);
+    margin: auto;
+    margin-top: 40px;
+    padding-top: 40px;
+}
+
+.two{
+    height: 570px;
+    width: 670px;
+    background-color: white;
+    margin-left: 40px;
+    padding-top: 30px;
+  
+}
+
+h4{
+    color: green;
+    text-align: center;
+    /* margin-top: 30px; */
+    
+}
+h5{
+    float: left;
+}
+
+.two-1{
+    height: 200px;
+    width: 200px;
+}
+
+.vasu{
+    font-size: 35px;
+    margin-left: 120px;
+}
+
+h6{
+    text-wrap: nowrap;
+}
+
+.vasu-1{
+    margin-left: 120px;
+}
+
+i{
+    margin-left: 80px;
+}
+
+.three{
+    height: 90px;
+    width: 670;
+    background-color: rgb(197, 192, 185);
+    margin-top: 120px;
+    text-align: center;
+    /* margin-top: 40px; */
+    padding-top: 30px;
+}
+
+
+.four{
+    height: 550px;
+    width: 600px;
+    background-color: rgb(4, 4, 96);
+    margin-top: 30px;
+}
+
+
+h3{
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+}
+
+
+.five{
+    margin-left: 80px;
+    color: blue;
+}
+
+table , td{
+    border: 2px solid white;
+    padding: 15px;
+    width: 400px;
+    color: white;
+    /* padding-top: 30px; */
+
+}
+
+table{
+    margin-left: 100px;
+    /* margin-top: 50px; */
+    /* padding-top: 30px; */
+}
+
+.six{
+    height: 90px;
+    width: 670;
+    background-color: rgb(31, 31, 151);
+    margin-top: 90px;
+    text-align: center;
+    /* margin-top: 40px; */
+    padding-top: 30px;
+    color: white;
+}

@@ -1,0 +1,18 @@
+.vasu{
+    color: rgb(11, 11, 122);
+    display: flex;
+    /* float: left; */
+    /* margin-left: 90px; */
+    /* margin-top: 150px; */
+}
+
+.one{
+    /* display: inline-block; */
+    /* display: flex; */
+    flex-wrap: wrap;
+}
+
+
+.two{
+    margin-left: 20px;
+}

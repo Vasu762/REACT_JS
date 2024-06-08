@@ -1,0 +1,33 @@
+.image-container {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.image-container:hover .zoom {
+    transform: scale(1.1);
+    /* Increase scale for zoom effect */
+    transition: transform 1s ease-in;
+}
+
+.icons {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    display: none;
+    /* Hide icons by default */
+}
+
+.image-container:hover .icons {
+    display: block;
+    /* Show icons on hover */
+}
+
+.icons img {
+    width: 30px;
+    /* Adjust icon size as needed */
+    height: 30px;
+    margin: 5px;
+    /* Adjust icon spacing as needed */
+}

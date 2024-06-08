@@ -1,0 +1,38 @@
+1)blockquote
+use=blockquote use to anoter website url in you make website cite="www.kohli.com"
+<blockquote cite="www.kohli.com">
+<P>==========</p>
+</blockquote >
+
+
+
+
+
+
+
+2)marquee
+marquee use= scroll to image and text browser windowse
+<marquee direction"right">
+<marquee direction"down">
+<marquee direction"up">
+<marquee height="40%">
+
+
+
+
+3)col,row span
+
+4) META TAG
+5)FAVICON TAG
+
+6)Figure Tag 
+
+<fig> image use
+
+7)Span 
+        
+        
+
+8)Iframe Tag 
+9)Article
+10)Header

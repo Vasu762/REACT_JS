@@ -1,0 +1,23 @@
+.one{
+    height: 600px;
+    width: 500px;
+    background-color: rgb(175, 217, 234);
+    padding-top: 50px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.two{
+    height: 500px;
+    width: 400px;
+    background-color: white;
+    margin: auto;
+    border-radius: 15px;
+    /* margin-top: 50px; */
+
+}
+
+.three{
+    width: 370px;
+}
+

@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../js1"
+		},
+		{
+			"path": "../js2"
+		},
+		{
+			"path": "../js3"
+		},
+		{
+			"path": "../js4"
+		},
+		{
+			"path": "../js5"
+		},
+		{
+			"path": "../js6"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js2"
+	}
+}

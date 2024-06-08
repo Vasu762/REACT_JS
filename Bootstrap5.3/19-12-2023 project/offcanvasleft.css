@@ -1,0 +1,30 @@
+.one{
+    margin-left: 650px;
+    margin-top: 250px;
+}
+
+body{
+    background-color: rgb(1, 1, 78);
+}
+
+
+h3{
+    color: red;
+}
+
+button{
+    margin-left: 80px;
+}
+
+
+/* .two{
+    margin-left: 130px;
+} */
+
+.bg-body-tertiary{
+    background-color: red;
+}
+
+.offcanvas {
+    background-color: red;
+}
